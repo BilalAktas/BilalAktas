@@ -32,12 +32,7 @@
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/bilal-aktas/)  
+
 📧 b.aktas.off@gmail.com  
-
----
-
-## GitHub Stats
-
-![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=BilalAktas&show_icons=true&theme=dark)  
 
 ---
