@@ -5,7 +5,7 @@
 ## About Me
 
  I began my journey in game development at the age of 4 by playing
- computer games. With 7 years of experience in the industry, I have
+ computer games. With 8 years of experience in the industry, I have
  developed games across various genres using Unity. I am always
  eager to learn and grow, my passion for game development drives
  me to continuously improve. What fascinates me about development
@@ -23,7 +23,8 @@
 
 ## 📌 Pinned Repositories
 
-- [AStar Pathfinding](https://github.com/BilalAktas/AStar-Pathfinding)  
+- [AStar Pathfinding](https://github.com/BilalAktas/AStar-Pathfinding)
+- [Color Block Jam](https://github.com/BilalAktas/NinovaGames-Case)
 - [Match3 Puzzle Portfolio](https://github.com/BilalAktas/Match3-Puzzle-Portfolio)  
 - [Word Puzzle Portfolio](https://github.com/BilalAktas/Word-Puzzle-Portfolio)  
 
