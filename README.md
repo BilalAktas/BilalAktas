@@ -25,8 +25,9 @@
 
 - [AStar Pathfinding](https://github.com/BilalAktas/AStar-Pathfinding)
 - [Color Block Jam](https://github.com/BilalAktas/NinovaGames-Case)
-- [Match3 Puzzle Portfolio](https://github.com/BilalAktas/Match3-Puzzle-Portfolio)  
-- [Word Puzzle Portfolio](https://github.com/BilalAktas/Word-Puzzle-Portfolio)  
+- [Block Blast](https://github.com/BilalAktas/BlockBlast)
+- [Match3 Puzzle](https://github.com/BilalAktas/Match3-Puzzle)  
+- [Word Puzzle](https://github.com/BilalAktas/Word-Puzzle)
 
 ---
 
