@@ -4,13 +4,11 @@
 
 ## About Me
 
- I began my journey in game development at the age of 4 by playing
- computer games. With 8 years of experience in the industry, I have
- developed games across various genres using Unity. I am always
- eager to learn and grow, my passion for game development drives
- me to continuously improve. What fascinates me about development
- is that it has no limits — there's always something new to create and
- explore.
+Unity Game Developer with 8 years of experience developing and shipping mobile & PC games across
+multiple genres. Experienced in gameplay systems, multiplayer architecture, optimization, SDK integrations
+and live operations. Passionate about creating scalable and engaging gameplay experiences, I am always
+eager to learn and continuously improve. What fascinates me about game development is that it has no limits.
+There is always something new to create and explore.
 
 ---
 
