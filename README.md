@@ -12,10 +12,18 @@ There is always something new to create and explore.
 
 ---
 
-## Skills & Technologies
+## Technical Skills
 
-- **Game Engine:** Unity  
-- **Programming Languages:** C#  
+Programming Languages: C#
+
+Game Development: Gameplay Programming, UI Development, Multiplayer (Photon Fusion 2), Addressables,
+Scriptable Objects, Object Pooling, Performance Optimization, Object-Oriented Programming (OOP), SOLID Coding
+Principles, Programming Design Patterns, JOB System, Event-Driven Architecture
+
+SDKs & Services: Firebase (Analytics, Database), Monetization (In-App Purchases, Ad Integration), Analytics SDK
+Integration, LiveOps Integration, Custom SDK Integration
+
+Tools: Unity, Rider, Version Control (Git, Plastic SCM, SourceTree)
 
 ---
 
