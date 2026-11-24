@@ -3,7 +3,7 @@
 
 # Bilal Kaan Aktaş
 
-### Unity Game Developer · 8 Years · Mobile & PC
+### Unity Game Developer · 4+ Years · Mobile & PC
 
 Gameplay systems, multiplayer architecture, performance optimization, SDK integrations, and live operations.
 
