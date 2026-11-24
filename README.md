@@ -36,8 +36,6 @@ I care about code that other developers can read, extend, and trust: decoupled s
 
 <div align="left">
 
-![Unity](https://skillicons.dev/icons?i=unity,cs)
-
 </div>
 
 | Category | Tools |
