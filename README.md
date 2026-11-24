@@ -18,7 +18,7 @@ Gameplay systems, multiplayer architecture, performance optimization, SDK integr
 
 ## 👋 About
 
-Unity Game Developer with 8 years of experience developing and shipping mobile and PC games across multiple genres.
+Unity Game Developer with 4+ years of professional experience developing and shipping mobile and PC games across multiple genres.
 
 I work across the full game development lifecycle, from prototyping core mechanics to production-ready systems, optimization, release preparation, and live operations.
 
